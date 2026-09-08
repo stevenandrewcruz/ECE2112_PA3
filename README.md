@@ -1,7 +1,7 @@
 # ECE2112_PA3
 Written and made by Steven Andrew A. Cruz of 2ECE-D
 
-#EXPERIMENT 3: PYTHON DATA ANALYSIS (PANDAS)
+# EXPERIMENT 3: PYTHON DATA ANALYSIS (PANDAS)
 The topic of this experiment is all about PANDAS or Python Data Analysis. The main focus of this experiment is to load a CSV dataset into a Pandas DataFrame, to be able to select rows and columns using positional label-based indexing, to filter records using conditions on a DataFrame column; and finally extract a well-defined subset of data without changing the source data.  
 
 
