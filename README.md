@@ -106,12 +106,17 @@ selected_cars.shape
 This functions shows the dimension of the the previous output. The result is `(3, 5)` 
 
 # README FILE HISTORY:
-September 8 2026 Creation of repository 
-September 8 2026 Uploading of files 
-September 8 2026 Readme file layout 
-September 10 2026 Finalizing of readme file 
-September 10 2026 Minor editing for Readme File 
+- September 8 2026 Creation of repository
+  
+- September 8 2026 Uploading of files
+  
+- September 8 2026 Readme file layout
+  
+- September 10 2026 Finalizing of readme file
 
+- September 10 2026 Minor editing for Readme File
+  
+- September 10 2026 More Minor editing for Readme File
 
 
 
