@@ -21,7 +21,7 @@ METHODS USED:
 cars=pd.read_csv('cars.csv')
 cars
 ```
-To load the file `cars.csv` the function `cars = pd.read_csv('cars.csv')` is used and stored in `cars`. The resulting output is the full list in the file with complete columns and rows. Note that this function specifically calls in csv files in the same file where the code is saved in. 
+To display the content of the file `cars.csv` the function `cars = pd.read_csv('cars.csv')` is used and stored in `cars`. The resulting output is the full list in the file with complete columns and rows. Note that this function specifically calls in csv files in the same file where the code is saved in. 
 
 ```python
 cars.shape
@@ -117,6 +117,8 @@ This functions shows the dimension of the the previous output. The result is `(3
 - September 10 2026 Minor editing for Readme File
   
 - September 10 2026 More Minor editing for Readme File
+
+- eptember 10 2026 More Minor editing for Readme File
 
 
 
