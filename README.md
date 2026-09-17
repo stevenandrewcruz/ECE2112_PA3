@@ -4,7 +4,12 @@ Written and made by Steven Andrew A. Cruz of 2ECE-D
 # EXPERIMENT 3: PYTHON DATA ANALYSIS (PANDAS)
 The topic of this experiment is all about PANDAS or Python Data Analysis. The main focus of this experiment is to load a CSV dataset into a Pandas DataFrame, to be able to select rows and columns using positional label-based indexing, to filter records using conditions on a DataFrame column; and finally extract a well-defined subset of data without changing the source data.  
 
+# IMPORT PANDAS LIBRARY 
 
+```python
+import pandas as pd 
+```
+To be able to use the pandas library, the function `import pandas as pd` is used with the variable `pd` being a shortcut for pandas when calling the library. 
 
 # A. POSITIONAL LABEL-BASED SLICING 
 After loading cars, complete the following operations.
@@ -118,7 +123,9 @@ This functions shows the dimension of the the previous output. The result is `(3
   
 - September 10 2026 More Minor editing for Readme File
 
-- eptember 10 2026 More Minor editing for Readme File
+- September 10 2026 More Minor editing for Readme File
+
+- September 17 2026 Inclusion of Import Pandas function explanation
 
 
 
